@@ -1,0 +1,40 @@
+a:link		{		color: #f39200;
+}
+a:visited	{	    color: #f39200;
+}
+a:hover		{		color: #ffffff;
+}
+a:active	{		color: #000000;
+} 
+/*
+body,td,th	{		color: #ffffff;
+					font-family: BinaryITC-Bold;
+					fot-size: 20px;
+}
+*/
+
+td,th		{		color: #ffffff;
+					font-family: BinaryITC-Bold;
+					font-size: 20px;
+					font-weight: bold;
+}
+
+
+body		{		background-color: #00a8da;
+					margin: 0px;
+}
+
+th			{		text-align:left;
+}
+
+table		{		padding-left: 50px;
+}
+
+.topribbon 	{		padding-left: 50px;
+					height: 155px;
+					background-color: #ffffff;
+					color: #f39200;
+					font-family: BinaryITC-Bold;					
+					font-size: 45px;
+					font-weight: bold;
+} 
